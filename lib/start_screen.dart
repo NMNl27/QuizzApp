@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:myapp/questions_screen.dart';
+import 'package:myapp/result_screen.dart';
 
 class StartScreen extends StatelessWidget {
 // Suggested code may be subject to a license. Learn more: ~LicenseLog:969563015.
